@@ -1,0 +1,83 @@
+
+.top_header{
+    background-color: rgb(rgb(60, 51, 51), green, blue);
+    padding: 0;
+    text-align: center;
+    color: white;
+}
+header{
+    background-color: rgb(60, 58, 58);
+    padding: 0.1px;
+    margin: 2px;
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    color:black;
+    margin: 30px;
+    
+    
+}
+section figure{
+    text-align: center;
+}
+ footer{
+    background-color: rgb(60, 58, 58);
+    color: white;
+    text-align: center;
+    
+    padding: 0.1px;
+    
+
+}
+main{
+    display: flex;
+    padding: 20px;
+    
+    
+}
+aside{
+    padding: 15px;
+    margin: 5px;
+    
+    
+}
+article{
+    border: 1px solid black;
+    
+}
+figure{
+    padding: 15px;
+    margin: 10px;
+}
+figcaption{
+    padding:50px ;
+    font-weight: bold;
+}
+
+.action-button{
+    text-align: center;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px  ;
+    cursor: pointer;
+    padding: 10px 40px;
+    transition: background-color 0.3s ;
+    margin-top: 200px;
+    margin-left: 50px;
+    color:black;
+    
+    
+}
+ .action-button:hover{
+    background-color: rgb(98, 97, 104);
+}
+
+
+aside ul li a:hover{
+    color: rgb(7, 51, 29);
+}
+div{
+    display: flex;
+}
